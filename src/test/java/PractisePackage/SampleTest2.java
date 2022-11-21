@@ -7,6 +7,7 @@ public class SampleTest2 {
 	public void Script11()
 	{
 		System.out.println("----Script11-----");
+		System.out.println("Updated as TE");
 		
 	}
 	@Test
